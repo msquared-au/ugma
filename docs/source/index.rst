@@ -13,6 +13,7 @@ Contents:
 
    introduction
    what
+   resources
 
 
 Indices and tables
