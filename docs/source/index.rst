@@ -13,6 +13,8 @@ Contents:
 
    introduction
    what
+   server
+   device
    resources
 
 
